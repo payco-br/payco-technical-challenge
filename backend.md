@@ -23,7 +23,7 @@ O desafio está dividido em duas partes: teórica e prática.
 - Estimar os custos aproximados da infraestrutura.
 - Determinar a capacidade aproximada da solução em Requisições Por Segundo (RPS).
 - Descrever detalhadamente a infraestrutura adotada.
--Argumentar sobre as vantagens da solução proposta.
+- Argumentar sobre as vantagens da solução proposta.
 
 ## Parte Prática
 
